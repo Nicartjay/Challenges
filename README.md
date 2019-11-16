@@ -6,4 +6,4 @@ The challenges given upon the mighty ones, solve the challenge with any programi
  - - Week 2 (2019/11/16) - Rounders
 
  - Code Challenge
-UNDER CONSTRUCTION
+ - 1 - Build Palindrome
