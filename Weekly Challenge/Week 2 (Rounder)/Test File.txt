@@ -1,0 +1,7 @@
+rounders(15)    = 20
+rounders(1234)  = 1000
+rounders(1445)  = 2000
+rounders(14)    = 10
+rounders(10)    = 10
+rounders(7001)  = 7000
+rounders(99)    = 100
