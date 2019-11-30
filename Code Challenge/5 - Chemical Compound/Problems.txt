@@ -1,0 +1,11 @@
+Input: “H2O”
+	Output: { “O”:1, “H”:2 }
+
+	Input: “H2SO3”
+	Output: { “S”:1, “O”:3, “H”:2 }
+
+	Input: “Fe2(SO4)3”
+	Output: { “S”:3, “O”:12, “Fe”:2 }
+
+	Input: “Cl((NaH)2CO3)2”
+	Output: { “O”:6, “Na”: 4, “H”:4, “Cl”:1, “C”:2 }
